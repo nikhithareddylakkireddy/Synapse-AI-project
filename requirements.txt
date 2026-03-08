@@ -1,5 +1,5 @@
 streamlit
+openai
+python-dotenv
 requests
 graphviz
-openai
-PyPDF2
